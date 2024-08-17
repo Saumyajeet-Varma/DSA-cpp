@@ -22,6 +22,8 @@ public:
         }
         return count;
     }
+
+    // Main Function
     int numberOfSubarrays(vector<int> &nums, int k)
     {
         return countSubarrays(nums, k) - countSubarrays(nums, k - 1);
