@@ -1,0 +1,3 @@
+Power of 2
+
+Given a non-negative integer n. The task is to check if it is a power of 2. 

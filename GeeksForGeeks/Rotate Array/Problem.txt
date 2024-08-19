@@ -1,0 +1,4 @@
+Rotate Array
+
+Given an unsorted array arr[] of size n. Rotate the array to the left (counter-clockwise direction) by d steps, where d is a positive integer.
+Note: Consider the array as circular.
