@@ -17,24 +17,24 @@ public:
     {
         if (head == NULL || head->next == nullptr || k == 0)
             return head;
-        ListNode *temp = head;
+        ListNode *tail = head;
         int len = 1;
-        while (temp->next != nullptr)
+        while (tail->next != nullptr)
         {
             len++;
-            temp = temp->next;
+            tail = tail->next;
         }
-        ListNode *tail = head;
+        ListNode *temp = head;
         int move = 1;
         k = k % len;
         while (move < len - k)
         {
-            tail = tail->next;
+            temp = temp->next;
             move++;
         }
-        temp->next = head;
-        head = tail->next;
-        tail->next = nullptr;
+        tail->next = head;
+        head = temp->next;
+        temp->next = nullptr;
         return head;
     }
 };
