@@ -6,6 +6,7 @@ class MyStack
 public:
     queue<int> main;
     queue<int> temp;
+
     MyStack()
     {
     }
