@@ -9,6 +9,7 @@ public:
 
     MyStack()
     {
+        // we don't need it here
     }
 
     void push(int x)
