@@ -27,6 +27,6 @@ public:
             if (val)
                 count++;
         }
-        return count++;
+        return count;
     }
 };
