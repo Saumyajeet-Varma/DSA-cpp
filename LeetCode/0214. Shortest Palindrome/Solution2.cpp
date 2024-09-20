@@ -1,7 +1,7 @@
 #include <bits/stdc++.h>
 using namespace std;
 
-// Time Limit Exceed for only one test case.____________________
+// Time Limit Exceed for only one test case.
 class Solution
 {
 public:
