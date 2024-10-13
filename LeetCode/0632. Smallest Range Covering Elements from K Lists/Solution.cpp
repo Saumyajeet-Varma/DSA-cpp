@@ -21,13 +21,15 @@ public:
         unordered_map<int, int> mpp;
         while (right < v)
         {
-            if (!mpp[vec[right].second]++)
+            mpp[vec[right].second]++;
+            if (mpp[vec[right].second] == 1)
                 k++;
             if (k == n)
             {
                 while (mpp[vec[left].second] > 1)
                 {
-                    mpp[vec[left++].second]--;
+                    mpp[vec[left].second]--;
+                    left++;
                 }
                 if (ans.empty() || ans[1] - ans[0] > vec[right].first - vec[left].first)
                     ans = vector<int>{vec[left].first, vec[right].first};
