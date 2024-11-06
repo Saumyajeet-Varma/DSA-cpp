@@ -1,0 +1,3 @@
+Find the element that appears once in sorted array
+
+Given a sorted array arr[] of size N. Find the element that appears only once in the array. All other elements appear exactly twice. 
