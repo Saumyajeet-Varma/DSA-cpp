@@ -1,4 +1,0 @@
-Intersection Point in Y Shaped Linked Lists
-
-Given two singly linked lists, return the point where two linked lists intersect.
-Note: If the linked lists do not merge at any point, return -1.
