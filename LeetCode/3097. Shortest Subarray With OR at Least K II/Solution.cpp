@@ -28,7 +28,7 @@ public:
         for (int i = 0; i < 32; i++)
         {
             if (bits[i] >= 1)
-                val += 1 << i;
+                val |= 1 << i;
         }
         return val;
     }
