@@ -1,23 +1,19 @@
+#include <bits/stdc++.h>
+using namespace std;
+
 class Solution
 {
 public:
-    bool isPalindrome(int x)
+    int reverse(int x)
     {
-        long temp = x;
         long rev = 0;
-        while (temp > 0)
+        while (x)
         {
-            int digit = temp % 10;
-            rev = (rev * 10) + digit;
-            temp = temp / 10;
+            if (rev > INT_MAX / 10 || rev < INT_MIN / 10)
+                return 0;
+            rev = (rev * 10) + (x % 10);
+            x = x / 10;
         }
-        if (rev == x)
-        {
-            return true;
-        }
-        else
-        {
-            return false;
-        }
+        return rev;
     }
 };
