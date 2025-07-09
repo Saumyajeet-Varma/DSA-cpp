@@ -1,0 +1,3 @@
+Strongly Connected
+
+Given an adjacency list, adj of Directed Graph, Find the number of strongly connected components in the graph.
