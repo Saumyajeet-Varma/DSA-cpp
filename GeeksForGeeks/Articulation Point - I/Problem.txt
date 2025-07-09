@@ -1,0 +1,4 @@
+Articulation Point - I
+
+Given an undirected connected graph with V vertices and adjacency list adj. You are required to find all the vertices removing which (and edges through it) disconnects the graph into 2 or more components and return it in sorted manner.
+Note: Indexing is zero-based i.e nodes numbering from (0 to V-1). There might be loops present in the graph.
