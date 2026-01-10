@@ -13,7 +13,7 @@ Leetcode Profile - [SaumyajeetVarma](https://leetcode.com/u/SaumyajeetVarma/)
   </thead>
 
   <tbody>
-   <!-- 01__________________________________________________________ -->
+   <!-- ! 01__________________________________________________________ -->
     <tr>
       <td>1. Two Sum</td>
       <td>
@@ -28,7 +28,7 @@ Leetcode Profile - [SaumyajeetVarma](https://leetcode.com/u/SaumyajeetVarma/)
         </a>
       </td>
     </tr>
-   <!-- 02__________________________________________________________ -->
+   <!--!  02__________________________________________________________ -->
     <tr>
       <td>2. Add Two Numbers</td>
       <td>
@@ -43,7 +43,7 @@ Leetcode Profile - [SaumyajeetVarma](https://leetcode.com/u/SaumyajeetVarma/)
         </a>
       </td>
     </tr>
-    <!-- 03__________________________________________________________ -->
+    <!-- ! 03__________________________________________________________ -->
     <tr>
       <td>3. Longest Substring Without Repeating Characters</td>
       <td>
@@ -58,7 +58,7 @@ Leetcode Profile - [SaumyajeetVarma](https://leetcode.com/u/SaumyajeetVarma/)
         </a>
       </td>
     </tr>
-    <!-- 05__________________________________________________________ -->
+    <!-- ! 05__________________________________________________________ -->
     <tr>
       <td>5. Longest Palindromic Substring</td>
       <td>
@@ -69,6 +69,51 @@ Leetcode Profile - [SaumyajeetVarma](https://leetcode.com/u/SaumyajeetVarma/)
       <td>Medium</td>
       <td>
         <a href="./platforms/LeetCode/0005. Longest Palindromic Substring/">
+          Solution
+        </a>
+      </td>
+    </tr>
+    <!-- ! 07__________________________________________________________ -->
+    <tr>
+      <td>7. Reverse Integer</td>
+      <td>
+        <a href="https://leetcode.com/problems/reverse-integer/">
+          https://leetcode.com/problems/reverse-integer/
+        </a>
+      </td>
+      <td>Medium</td>
+      <td>
+        <a href="./platforms/LeetCode/0007. Reverse Integer/">
+          Solution
+        </a>
+      </td>
+    </tr>
+    <!-- ! 08__________________________________________________________ -->
+    <tr>
+      <td>8. String to Integer (atoi)</td>
+      <td>
+        <a href="https://leetcode.com/problems/string-to-integer-atoi/">
+          https://leetcode.com/problems/string-to-integer-atoi/
+        </a>
+      </td>
+      <td>Medium</td>
+      <td>
+        <a href="./platforms/LeetCode/0008. String to Integer (atoi)/">
+          Solution
+        </a>
+      </td>
+    </tr>
+    <!-- 09__________________________________________________________ -->
+    <tr>
+      <td>9. Palindrome Number</td>
+      <td>
+        <a href="https://leetcode.com/problems/palindrome-number/">
+          https://leetcode.com/problems/palindrome-number/
+        </a>
+      </td>
+      <td>Easy</td>
+      <td>
+        <a href="./platforms/LeetCode/0009. Palindrome Number/">
           Solution
         </a>
       </td>
