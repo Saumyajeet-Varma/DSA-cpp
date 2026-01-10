@@ -103,7 +103,7 @@ Leetcode Profile - [SaumyajeetVarma](https://leetcode.com/u/SaumyajeetVarma/)
         </a>
       </td>
     </tr>
-    <!-- 09__________________________________________________________ -->
+    <!-- ! 09__________________________________________________________ -->
     <tr>
       <td>9. Palindrome Number</td>
       <td>
@@ -114,6 +114,141 @@ Leetcode Profile - [SaumyajeetVarma](https://leetcode.com/u/SaumyajeetVarma/)
       <td>Easy</td>
       <td>
         <a href="./platforms/LeetCode/0009. Palindrome Number/">
+          Solution
+        </a>
+      </td>
+    </tr>
+    <!-- ! 11__________________________________________________________ -->
+    <tr>
+      <td>11. Container With Most Water</td>
+      <td>
+        <a href="https://leetcode.com/problems/container-with-most-water/">
+          https://leetcode.com/problems/container-with-most-water/
+        </a>
+      </td>
+      <td>Medium</td>
+      <td>
+        <a href="./platforms/LeetCode/0011. Container With Most Water/">
+          Solution
+        </a>
+      </td>
+    </tr>
+    <!-- ! 12__________________________________________________________ -->
+    <tr>
+      <td>12. Integer to Roman</td>
+      <td>
+        <a href="https://leetcode.com/problems/integer-to-roman/">
+          https://leetcode.com/problems/integer-to-roman/
+        </a>
+      </td>
+      <td>Medium</td>
+      <td>
+        <a href="./platforms/LeetCode/0012. Integer to Roman/">
+          Solution
+        </a>
+      </td>
+    </tr>
+    <!-- ! 13__________________________________________________________ -->
+    <tr>
+      <td>13. Roman to Integer</td>
+      <td>
+        <a href="https://leetcode.com/problems/roman-to-integer/">
+          https://leetcode.com/problems/roman-to-integer/
+        </a>
+      </td>
+      <td>Easy</td>
+      <td>
+        <a href="./platforms/LeetCode/0013. Roman to Integer/">
+          Solution
+        </a>
+      </td>
+    </tr>
+    <!-- ! 14__________________________________________________________ -->
+    <tr>
+      <td>14. Longest Common Prefix</td>
+      <td>
+        <a href="https://leetcode.com/problems/longest-common-prefix/">
+          https://leetcode.com/problems/longest-common-prefix/
+        </a>
+      </td>
+      <td>Easy</td>
+      <td>
+        <a href="./platforms/LeetCode/0014. Longest Common Prefix/">
+          Solution
+        </a>
+      </td>
+    </tr>
+    <!-- ! 15__________________________________________________________ -->
+    <tr>
+      <td>15. 3Sum</td>
+      <td>
+        <a href="https://leetcode.com/problems/3sum/">
+          https://leetcode.com/problems/3sum/
+        </a>
+      </td>
+      <td>Medium</td>
+      <td>
+        <a href="./platforms/LeetCode/0015. 3Sum/">
+          Solution
+        </a>
+      </td>
+    </tr>
+    <!-- ! 16__________________________________________________________ -->
+    <tr>
+      <td>16. 3Sum Closet</td>
+      <td>
+        <a href="https://leetcode.com/problems/3sum-closest/">
+          https://leetcode.com/problems/3sum-closest/
+        </a>
+      </td>
+      <td>Medium</td>
+      <td>
+        <a href="./platforms/LeetCode/0016. 3Sum Closest/">
+          Solution
+        </a>
+      </td>
+    </tr>
+    <!-- ! 18__________________________________________________________ -->
+    <tr>
+      <td>18. 4Sum</td>
+      <td>
+        <a href="https://leetcode.com/problems/4sum/">
+          https://leetcode.com/problems/4sum/
+        </a>
+      </td>
+      <td>Hard</td>
+      <td>
+        <a href="./platforms/LeetCode/0018. 4Sum/">
+          Solution
+        </a>
+      </td>
+    </tr>
+    <!-- ! 19__________________________________________________________ -->
+    <tr>
+      <td>19. Remove Nth Node From End of List</td>
+      <td>
+        <a href="https://leetcode.com/problems/remove-nth-node-from-end-of-list/">
+          https://leetcode.com/problems/remove-nth-node-from-end-of-list/
+        </a>
+      </td>
+      <td>Medium</td>
+      <td>
+        <a href="./platforms/LeetCode/0019. Remove Nth Node From End of List/">
+          Solution
+        </a>
+      </td>
+    </tr>
+    <!-- ! 20__________________________________________________________ -->
+    <tr>
+      <td>20. Valid Parentheses</td>
+      <td>
+        <a href="https://leetcode.com/problems/valid-parentheses/">
+          https://leetcode.com/problems/valid-parentheses/
+        </a>
+      </td>
+      <td>Medium</td>
+      <td>
+        <a href="./platforms/LeetCode/0020. Valid Parentheses/">
           Solution
         </a>
       </td>
@@ -132,5 +267,4 @@ GeeksForGeeks Profile - [saumyajeet0mnn](https://www.geeksforgeeks.org/user/saum
 
 # Neetcode
 
-Neetcode Profile - []()
 

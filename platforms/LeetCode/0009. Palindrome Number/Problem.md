@@ -10,4 +10,4 @@ Given an integer `x`, return `true` if `x` is a palindrome, and `false` otherwis
 - Explanation: 121 reads as 121 from left to right and from right to left.
 
 ### Constraints:
-- -2<sup>31</sup> <= x <= 2<sup>31</sup> - 1
+- `-2³¹ <= x <= 2³¹ - 1`
