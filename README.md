@@ -1,7 +1,3 @@
-# DSA-cpp
-
----
-
 # Leetcode
 
 Leetcode Profile - [SaumyajeetVarma](https://leetcode.com/u/SaumyajeetVarma/)
@@ -43,6 +39,36 @@ Leetcode Profile - [SaumyajeetVarma](https://leetcode.com/u/SaumyajeetVarma/)
       <td>Medium</td>
       <td>
         <a href="./platforms/LeetCode/0002. Add Two Numbers/">
+          Solution
+        </a>
+      </td>
+    </tr>
+    <!-- 03__________________________________________________________ -->
+    <tr>
+      <td>3. Longest Substring Without Repeating Characters</td>
+      <td>
+        <a href="https://leetcode.com/problems/longest-substring-without-repeating-characters/">
+          https://leetcode.com/problems/longest-substring-without-repeating-characters/
+        </a>
+      </td>
+      <td>Medium</td>
+      <td>
+        <a href="./platforms/LeetCode/0003. Longest Substring Without Repeating Characters/">
+          Solution
+        </a>
+      </td>
+    </tr>
+    <!-- 05__________________________________________________________ -->
+    <tr>
+      <td>5. Longest Palindromic Substring</td>
+      <td>
+        <a href="https://leetcode.com/problems/longest-palindromic-substring/">
+          https://leetcode.com/problems/longest-palindromic-substring/
+        </a>
+      </td>
+      <td>Medium</td>
+      <td>
+        <a href="./platforms/LeetCode/0005. Longest Palindromic Substring/">
           Solution
         </a>
       </td>
