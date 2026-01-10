@@ -1,6 +1,0 @@
-Nodes without a Sibling
-
-Given a Binary Tree of n nodes, find all the nodes that don't have any siblings. You need to return a list of integers containing all the nodes that don't have a sibling in sorted order (Increasing).
-Two nodes are said to be siblings if they are present at the same level, and their parents are the same.
-
-Note: The root node can not have a sibling so it cannot be included in our answer.

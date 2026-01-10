@@ -1,3 +1,0 @@
-Swap two numbers
-
-Swap given two numbers and print them. (Try to do it without a temporary variable.) and return it.

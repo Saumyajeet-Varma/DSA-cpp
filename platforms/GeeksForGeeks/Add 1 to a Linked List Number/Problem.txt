@@ -1,0 +1,4 @@
+Add 1 to a Linked List Number
+
+You are given a linked list where each element in the list is a node and have an integer data. You need to add 1 to the number formed by concatinating all the list node numbers together and return the head of the modified linked list. 
+Note: The head represents the first element of the given array.

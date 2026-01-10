@@ -1,0 +1,3 @@
+Max Sum without Adjacents
+
+Given an array arr containing positive integers. Find the maximum sum of elements of any possible subsequence such that no two numbers in the subsequence should be adjacent in array arr[].

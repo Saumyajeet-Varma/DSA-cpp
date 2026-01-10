@@ -1,0 +1,3 @@
+k-th Smallest in BST
+
+Given a BST and an integer k, the task is to find the kth smallest element in the BST. If there is no kth smallest element present then return -1.

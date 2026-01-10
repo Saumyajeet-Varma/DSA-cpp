@@ -1,3 +1,0 @@
-Postfix to Prefix Conversion
-
-You are given a string that represents the postfix form of a valid mathematical expression. Convert it to its prefix form.

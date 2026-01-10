@@ -1,3 +1,0 @@
-Rotate Array by One
-
-Given an array arr, rotate the array by one position in clockwise direction.

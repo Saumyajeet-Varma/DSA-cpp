@@ -1,3 +1,0 @@
-LCM and GCD
-
-Given two integers a and b, write a function lcmAndGcd() to compute their LCM and GCD. The function takes two integers a and b as input and returns a list containing their LCM and GCD.

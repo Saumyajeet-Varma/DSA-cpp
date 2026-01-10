@@ -1,1 +1,0 @@
-Find XOR of numbers from L to R.

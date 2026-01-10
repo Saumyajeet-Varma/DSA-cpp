@@ -1,0 +1,5 @@
+Max sum path in two arrays
+
+Given two sorted arrays of distinct integers arr1 and arr2. Each array may have some elements in common with the other array. Find the maximum sum of a path from the beginning of any array to the end of any array. You can switch from one array to another array only at the common elements.
+
+Note:  When we switch from one array to other,  we need to consider the common element only once in the result.

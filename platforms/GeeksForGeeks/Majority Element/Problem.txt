@@ -1,0 +1,4 @@
+Majority Element
+
+Given an array arr. Find the majority element in the array. If no majority exists, return -1.
+A majority element in an array of size n is an element that appears strictly more than n/2 times in the array.

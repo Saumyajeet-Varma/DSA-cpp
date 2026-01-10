@@ -1,0 +1,4 @@
+Maximum Product Subarray
+
+Given an array arr[] that contains n integers (may be positive, negative or zero). Find the product of the maximum product subarray.
+Note: It is guarenteed that the output fits in 64-bit integer.

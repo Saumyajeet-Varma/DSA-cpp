@@ -1,0 +1,3 @@
+Insert in a Sorted List
+
+Given a linked list sorted in ascending order and an integer called x, insert data in the linked list such that the list remains sorted.

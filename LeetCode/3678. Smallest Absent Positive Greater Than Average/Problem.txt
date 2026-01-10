@@ -1,5 +1,0 @@
-3678. Smallest Absent Positive Greater Than Average
-
-You are given an integer array nums.
-Return the smallest absent positive integer in nums such that it is strictly greater than the average of all elements in nums.
-The average of an array is defined as the sum of all its elements divided by the number of elements.

@@ -1,3 +1,0 @@
-Node at a given index in linked list
-
-Given the head of a Singly Linked List and an index, The task is to find the node at the given index(1-based index) of the linked list. If no such index exists then return -1.

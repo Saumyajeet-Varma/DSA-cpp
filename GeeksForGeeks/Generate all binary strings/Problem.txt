@@ -1,4 +1,0 @@
-Generate all binary strings
-
-Given an integer N , Print all binary strings of size N which do not contain consecutive 1s.
-A binary string is that string which contains only 0 and 1.

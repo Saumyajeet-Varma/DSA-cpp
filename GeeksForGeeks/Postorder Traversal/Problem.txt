@@ -1,3 +1,0 @@
-Postorder Traversal
-
-Given a binary tree, find the Postorder Traversal of it and return a list containing the postorder traversal of the given tree.

@@ -1,3 +1,0 @@
-Delete in a Singly Linked List
-
-Given a singly linked list and an integer, x. Delete the xth node (1-based indexing) from the singly linked list.
