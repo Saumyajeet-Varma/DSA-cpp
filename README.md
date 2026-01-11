@@ -253,6 +253,231 @@ Leetcode Profile - [SaumyajeetVarma](https://leetcode.com/u/SaumyajeetVarma/)
         </a>
       </td>
     </tr>
+    <!-- ! 21__________________________________________________________ -->
+    <tr>
+      <td>21. Merge Two Sorted Lists</td>
+      <td>
+        <a href="https://leetcode.com/problems/merge-two-sorted-lists/">
+          https://leetcode.com/problems/merge-two-sorted-lists/
+        </a>
+      </td>
+      <td>Easy</td>
+      <td>
+        <a href="./platforms/LeetCode/0021. Merge Two Sorted Lists/">
+          Solution
+        </a>
+      </td>
+    </tr>
+    <!-- ! 22__________________________________________________________ -->
+    <tr>
+      <td>22. Generate Parentheses</td>
+      <td>
+        <a href="https://leetcode.com/problems/generate-parentheses/">
+          https://leetcode.com/problems/generate-parentheses/
+        </a>
+      </td>
+      <td>Medium</td>
+      <td>
+        <a href="./platforms/LeetCode/0022. Generate Parentheses/">
+          Solution
+        </a>
+      </td>
+    </tr>
+    <!-- ! 25__________________________________________________________ -->
+    <tr>
+      <td>25. Reverse Nodes in k-Group</td>
+      <td>
+        <a href="https://leetcode.com/problems/reverse-nodes-in-k-group/">
+          https://leetcode.com/problems/reverse-nodes-in-k-group/
+        </a>
+      </td>
+      <td>Hard</td>
+      <td>
+        <a href="./platforms/LeetCode/0025. Reverse Nodes in k-Group/">
+          Solution
+        </a>
+      </td>
+    </tr>
+    <!-- ! 26__________________________________________________________ -->
+    <tr>
+      <td>26. Remove Duplicates from Sorted Array</td>
+      <td>
+        <a href="https://leetcode.com/problems/remove-duplicates-from-sorted-array/">
+          https://leetcode.com/problems/remove-duplicates-from-sorted-array/
+        </a>
+      </td>
+      <td>Easy</td>
+      <td>
+        <a href="./platforms/LeetCode/0026. Remove Duplicates from Sorted Array/">
+          Solution
+        </a>
+      </td>
+    </tr>
+    <!-- ! 27__________________________________________________________ -->
+    <tr>
+      <td>27. Remove Element</td>
+      <td>
+        <a href="https://leetcode.com/problems/remove-element/">
+          https://leetcode.com/problems/remove-element/
+        </a>
+      </td>
+      <td>Easy</td>
+      <td>
+        <a href="./platforms/LeetCode/0027. Remove Element/">
+          Solution
+        </a>
+      </td>
+    </tr>
+    <!-- ! 28__________________________________________________________ -->
+    <tr>
+      <td>28. Find the Index of the First Occurrence in a String</td>
+      <td>
+        <a href="https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/">
+          https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/
+        </a>
+      </td>
+      <td>Easy</td>
+      <td>
+        <a href="./platforms/LeetCode/0028. Find the Index of the First Occurrence in a String/">
+          Solution
+        </a>
+      </td>
+    </tr>
+    <!-- ! 29__________________________________________________________ -->
+    <tr>
+      <td>29. Divide Two Integers</td>
+      <td>
+        <a href="https://leetcode.com/problems/divide-two-integers/">
+          https://leetcode.com/problems/divide-two-integers/
+        </a>
+      </td>
+      <td>Medium</td>
+      <td>
+        <a href="./platforms/LeetCode/0029. Divide Two Integers/">
+          Solution
+        </a>
+      </td>
+    </tr>
+    <!-- ! 32__________________________________________________________ -->
+    <tr>
+      <td>32. Longest Valid Parentheses</td>
+      <td>
+        <a href="https://leetcode.com/problems/longest-valid-parentheses/">
+          https://leetcode.com/problems/longest-valid-parentheses/
+        </a>
+      </td>
+      <td>Hard</td>
+      <td>
+        <a href="./platforms/LeetCode/0032. Longest Valid Parentheses/">
+          Solution
+        </a>
+      </td>
+    </tr>
+    <!-- ! 33__________________________________________________________ -->
+    <tr>
+      <td>33. Search in Rotated Sorted Array</td>
+      <td>
+        <a href="https://leetcode.com/problems/search-in-rotated-sorted-array/">
+          https://leetcode.com/problems/search-in-rotated-sorted-array/
+        </a>
+      </td>
+      <td>Medium</td>
+      <td>
+        <a href="./platforms/LeetCode/0033. Search in Rotated Sorted Array/">
+          Solution
+        </a>
+      </td>
+    </tr>
+    <!-- ! 34__________________________________________________________ -->
+    <tr>
+      <td>34. Find First and Last Position of Element in Sorted Array</td>
+      <td>
+        <a href="https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/">
+          https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/
+        </a>
+      </td>
+      <td>Medium</td>
+      <td>
+        <a href="./platforms/LeetCode/0034. Find First and Last Position of Element in Sorted Array/">
+          Solution
+        </a>
+      </td>
+    </tr>
+    <!-- ! 35__________________________________________________________ -->
+    <tr>
+      <td>35. Search Insert Position</td>
+      <td>
+        <a href="https://leetcode.com/problems/search-insert-position/">
+          https://leetcode.com/problems/search-insert-position/
+        </a>
+      </td>
+      <td>Easy</td>
+      <td>
+        <a href="./platforms/LeetCode/0035. Search Insert Position/">
+          Solution
+        </a>
+      </td>
+    </tr>
+    <!-- ! 37__________________________________________________________ -->
+    <tr>
+      <td>37. Sudoku Solver</td>
+      <td>
+        <a href="https://leetcode.com/problems/sudoku-solver/">
+          https://leetcode.com/problems/sudoku-solver/
+        </a>
+      </td>
+      <td>Hard</td>
+      <td>
+        <a href="./platforms/LeetCode/0037. Sudoku Solver/">
+          Solution
+        </a>
+      </td>
+    </tr>
+    <!-- ! 38__________________________________________________________ -->
+    <tr>
+      <td>38. Count and Say</td>
+      <td>
+        <a href="https://leetcode.com/problems/count-and-say/">
+          https://leetcode.com/problems/count-and-say/
+        </a>
+      </td>
+      <td>Medium</td>
+      <td>
+        <a href="./platforms/LeetCode/0038. Count and Say/">
+          Solution
+        </a>
+      </td>
+    </tr>
+    <!-- ! 39__________________________________________________________ -->
+    <tr>
+      <td>39. Combination Sum</td>
+      <td>
+        <a href="https://leetcode.com/problems/combination-sum/">
+          https://leetcode.com/problems/combination-sum/
+        </a>
+      </td>
+      <td>Medium</td>
+      <td>
+        <a href="./platforms/LeetCode/0039. Combination Sum/">
+          Solution
+        </a>
+      </td>
+    </tr>
+    <!-- ! 40__________________________________________________________ -->
+    <tr>
+      <td>40. Combination Sum II</td>
+      <td>
+        <a href="https://leetcode.com/problems/combination-sum-ii/">
+          https://leetcode.com/problems/combination-sum-ii/
+        </a>
+      </td>
+      <td>Medium</td>
+      <td>
+        <a href="./platforms/LeetCode/0040. Combination Sum II/">
+          Solution
+        </a>
+      </td>
+    </tr>
 
   </tbody>
 </table>
