@@ -718,6 +718,276 @@ Leetcode Profile - [SaumyajeetVarma](https://leetcode.com/u/SaumyajeetVarma/)
         </a>
       </td>
     </tr>
+    <!-- ! 66__________________________________________________________ -->
+    <tr>
+      <td>66. Plus One</td>
+      <td>
+        <a href="https://leetcode.com/problems/plus-one/">
+          https://leetcode.com/problems/plus-one/
+        </a>
+      </td>
+      <td>Easy</td>
+      <td>
+        <a href="./platforms/LeetCode/0066. Plus One/">
+          Solution
+        </a>
+      </td>
+    </tr>
+    <!-- ! 69__________________________________________________________ -->
+    <tr>
+      <td>69. Sqrt(x)</td>
+      <td>
+        <a href="https://leetcode.com/problems/sqrtx/">
+          https://leetcode.com/problems/sqrtx/
+        </a>
+      </td>
+      <td>Easy</td>
+      <td>
+        <a href="./platforms/LeetCode/0069. Sqrt(x)/">
+          Solution
+        </a>
+      </td>
+    </tr>
+    <!-- ! 70__________________________________________________________ -->
+    <tr>
+      <td>70. Climbing Stairs</td>
+      <td>
+        <a href="https://leetcode.com/problems/climbing-stairs/">
+          https://leetcode.com/problems/climbing-stairs/
+        </a>
+      </td>
+      <td>Easy</td>
+      <td>
+        <a href="./platforms/LeetCode/0070. Climbing Stairs/">
+          Solution
+        </a>
+      </td>
+    </tr>
+    <!-- ! 72__________________________________________________________ -->
+    <tr>
+      <td>72. Edit Distance</td>
+      <td>
+        <a href="https://leetcode.com/problems/edit-distance/">
+          https://leetcode.com/problems/edit-distance/
+        </a>
+      </td>
+      <td>Medium</td>
+      <td>
+        <a href="./platforms/LeetCode/0072. Edit Distance/">
+          Solution
+        </a>
+      </td>
+    </tr>
+    <!-- ! 74__________________________________________________________ -->
+    <tr>
+      <td>74. Search a 2D Matrix</td>
+      <td>
+        <a href="https://leetcode.com/problems/search-a-2d-matrix/">
+          https://leetcode.com/problems/search-a-2d-matrix/
+        </a>
+      </td>
+      <td>Medium</td>
+      <td>
+        <a href="./platforms/LeetCode/0074. Search a 2D Matrix/">
+          Solution
+        </a>
+      </td>
+    </tr>
+    <!-- ! 75__________________________________________________________ -->
+    <tr>
+      <td>75. Sort Colors</td>
+      <td>
+        <a href="https://leetcode.com/problems/sort-colors/">
+          https://leetcode.com/problems/sort-colors/
+        </a>
+      </td>
+      <td>Medium</td>
+      <td>
+        <a href="./platforms/LeetCode/0075. Sort Colors/">
+          Solution
+        </a>
+      </td>
+    </tr>
+    <!-- ! 76__________________________________________________________ -->
+    <tr>
+      <td>76. Minimum Window Substring</td>
+      <td>
+        <a href="https://leetcode.com/problems/minimum-window-substring/">
+          https://leetcode.com/problems/minimum-window-substring/
+        </a>
+      </td>
+      <td>Hard</td>
+      <td>
+        <a href="./platforms/LeetCode/0076. Minimum Window Substring/">
+          Solution
+        </a>
+      </td>
+    </tr>
+    <!-- ! 78__________________________________________________________ -->
+    <tr>
+      <td>78. Subsets</td>
+      <td>
+        <a href="https://leetcode.com/problems/subsets/">
+          https://leetcode.com/problems/subsets/
+        </a>
+      </td>
+      <td>Medium</td>
+      <td>
+        <a href="./platforms/LeetCode/0078. Subsets/">
+          Solution
+        </a>
+      </td>
+    </tr>
+    <!-- ! 79__________________________________________________________ -->
+    <tr>
+      <td>79. Word Search</td>
+      <td>
+        <a href="https://leetcode.com/problems/word-search/">
+          https://leetcode.com/problems/word-search/
+        </a>
+      </td>
+      <td>Medium</td>
+      <td>
+        <a href="./platforms/LeetCode/0079. Word Search/">
+          Solution
+        </a>
+      </td>
+    </tr>
+    <!-- ! 81__________________________________________________________ -->
+    <tr>
+      <td>81. Search in Rotated Sorted Array II</td>
+      <td>
+        <a href="https://leetcode.com/problems/search-in-rotated-sorted-array-ii/">
+          https://leetcode.com/problems/search-in-rotated-sorted-array-ii/
+        </a>
+      </td>
+      <td>Medium</td>
+      <td>
+        <a href="./platforms/LeetCode/0081. Search in Rotated Sorted Array II/">
+          Solution
+        </a>
+      </td>
+    </tr>
+    <!-- ! 83__________________________________________________________ -->
+    <tr>
+      <td>83. Remove Duplicates from Sorted List</td>
+      <td>
+        <a href="https://leetcode.com/problems/remove-duplicates-from-sorted-list/">
+          https://leetcode.com/problems/remove-duplicates-from-sorted-list/
+        </a>
+      </td>
+      <td>Easy</td>
+      <td>
+        <a href="./platforms/LeetCode/0083. Remove Duplicates from Sorted List/">
+          Solution
+        </a>
+      </td>
+    </tr>
+    <!-- ! 88__________________________________________________________ -->
+    <tr>
+      <td>88. Merge Sorted Array</td>
+      <td>
+        <a href="https://leetcode.com/problems/merge-sorted-array/">
+          https://leetcode.com/problems/merge-sorted-array/
+        </a>
+      </td>
+      <td>Easy</td>
+      <td>
+        <a href="./platforms/LeetCode/0088. Merge Sorted Array/">
+          Solution
+        </a>
+      </td>
+    </tr>
+    <!-- ! 90__________________________________________________________ -->
+    <tr>
+      <td>90. Subsets II</td>
+      <td>
+        <a href="https://leetcode.com/problems/subsets-ii/">
+          https://leetcode.com/problems/subsets-ii/
+        </a>
+      </td>
+      <td>Medium</td>
+      <td>
+        <a href="./platforms/LeetCode/0090. Subsets II/">
+          Solution
+        </a>
+      </td>
+    </tr>
+    <!-- ! 92__________________________________________________________ -->
+    <tr>
+      <td>92. Reverse Linked List II</td>
+      <td>
+        <a href="https://leetcode.com/problems/reverse-linked-list-ii/">
+          https://leetcode.com/problems/reverse-linked-list-ii/
+        </a>
+      </td>
+      <td>Medium</td>
+      <td>
+        <a href="./platforms/LeetCode/0092. Reverse Linked List II/">
+          Solution
+        </a>
+      </td>
+    </tr>
+    <!-- ! 94__________________________________________________________ -->
+    <tr>
+      <td>94. Binary Tree Inorder Traversal</td>
+      <td>
+        <a href="https://leetcode.com/problems/binary-tree-inorder-traversal/">
+          https://leetcode.com/problems/binary-tree-inorder-traversal/
+        </a>
+      </td>
+      <td>Easy</td>
+      <td>
+        <a href="./platforms/LeetCode/0094. Binary Tree Inorder Traversal/">
+          Solution
+        </a>
+      </td>
+    </tr>
+    <!-- ! 98__________________________________________________________ -->
+    <tr>
+      <td>98. Validate Binary Search Tree</td>
+      <td>
+        <a href="https://leetcode.com/problems/validate-binary-search-tree/">
+          https://leetcode.com/problems/validate-binary-search-tree/
+        </a>
+      </td>
+      <td>Medium</td>
+      <td>
+        <a href="./platforms/LeetCode/0098. Validate Binary Search Tree/">
+          Solution
+        </a>
+      </td>
+    </tr>
+    <!-- ! 99__________________________________________________________ -->
+    <tr>
+      <td>99. Recover Binary Search Tree</td>
+      <td>
+        <a href="https://leetcode.com/problems/recover-binary-search-tree/">
+          https://leetcode.com/problems/recover-binary-search-tree/
+        </a>
+      </td>
+      <td>Medium</td>
+      <td>
+        <a href="./platforms/LeetCode/0099. Recover Binary Search Tree/">
+          Solution
+        </a>
+      </td>
+    </tr>
+    <!-- ! 99__________________________________________________________ -->
+    <tr>
+      <td>100. Same Tree</td>
+      <td>
+        <a href="https://leetcode.com/problems/same-tree/">
+          https://leetcode.com/problems/same-tree/
+        </a>
+      </td>
+      <td>Easy</td>
+      <td>
+        <a href="./platforms/LeetCode/0100. Same Tree/">
+          Solution
+        </a>
+      </td>
+    </tr>
 
   </tbody>
 </table>
