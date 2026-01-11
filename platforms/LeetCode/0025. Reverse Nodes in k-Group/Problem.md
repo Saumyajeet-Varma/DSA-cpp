@@ -12,7 +12,7 @@ You **may not** change the node values—only the nodes themselves may be change
 
 - Input: `head = [1,2,3,4,5], k = 2`  
 - Output: `[2,1,4,3,5]`
-- 
+
 ![reversenodesinkgroup2](https://assets.leetcode.com/uploads/2020/10/03/reverse_ex2.jpg)
 
 - Input: `head = [1,2,3,4,5], k = 3`  

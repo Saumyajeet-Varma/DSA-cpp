@@ -478,6 +478,246 @@ Leetcode Profile - [SaumyajeetVarma](https://leetcode.com/u/SaumyajeetVarma/)
         </a>
       </td>
     </tr>
+    <!-- ! 42__________________________________________________________ -->
+    <tr>
+      <td>42. Trapping Rain Water</td>
+      <td>
+        <a href="https://leetcode.com/problems/trapping-rain-water/">
+          https://leetcode.com/problems/trapping-rain-water/
+        </a>
+      </td>
+      <td>Hard</td>
+      <td>
+        <a href="./platforms/LeetCode/0042. Trapping Rain Water/">
+          Solution
+        </a>
+      </td>
+    </tr>
+    <!-- ! 45__________________________________________________________ -->
+    <tr>
+      <td>45. Jump Game II</td>
+      <td>
+        <a href="https://leetcode.com/problems/jump-game-ii/">
+          https://leetcode.com/problems/jump-game-ii/
+        </a>
+      </td>
+      <td>Medium</td>
+      <td>
+        <a href="./platforms/LeetCode/0045. Jump Game II/">
+          Solution
+        </a>
+      </td>
+    </tr>
+    <!-- ! 48__________________________________________________________ -->
+    <tr>
+      <td>48. Rotate Image</td>
+      <td>
+        <a href="https://leetcode.com/problems/rotate-image/">
+          https://leetcode.com/problems/rotate-image/
+        </a>
+      </td>
+      <td>Medium</td>
+      <td>
+        <a href="./platforms/LeetCode/0048. Rotate Image/">
+          Solution
+        </a>
+      </td>
+    </tr>
+    <!-- ! 49__________________________________________________________ -->
+    <tr>
+      <td>49. Group Anagrams</td>
+      <td>
+        <a href="https://leetcode.com/problems/group-anagrams/">
+          https://leetcode.com/problems/group-anagrams/
+        </a>
+      </td>
+      <td>Medium</td>
+      <td>
+        <a href="./platforms/LeetCode/0049. Group Anagrams/">
+          Solution
+        </a>
+      </td>
+    </tr>
+    <!-- ! 50__________________________________________________________ -->
+    <tr>
+      <td>50. Pow(x, n)</td>
+      <td>
+        <a href="https://leetcode.com/problems/powx-n/">
+          https://leetcode.com/problems/powx-n/
+        </a>
+      </td>
+      <td>Medium</td>
+      <td>
+        <a href="./platforms/LeetCode/0050. Pow(x, n)/">
+          Solution
+        </a>
+      </td>
+    </tr>
+    <!-- ! 51__________________________________________________________ -->
+    <tr>
+      <td>51. N-Queens</td>
+      <td>
+        <a href="https://leetcode.com/problems/n-queens/">
+          https://leetcode.com/problems/n-queens/
+        </a>
+      </td>
+      <td>Hard</td>
+      <td>
+        <a href="./platforms/LeetCode/0051. N-Queens/">
+          Solution
+        </a>
+      </td>
+    </tr>
+    <!-- ! 53__________________________________________________________ -->
+    <tr>
+      <td>53. Maximum Subarray</td>
+      <td>
+        <a href="https://leetcode.com/problems/maximum-subarray/">
+          https://leetcode.com/problems/maximum-subarray/
+        </a>
+      </td>
+      <td>Medium</td>
+      <td>
+        <a href="./platforms/LeetCode/0053. Maximum Subarray/">
+          Solution
+        </a>
+      </td>
+    </tr>
+    <!-- ! 54__________________________________________________________ -->
+    <tr>
+      <td>54. Spiral Matrix</td>
+      <td>
+        <a href="https://leetcode.com/problems/spiral-matrix/">
+          https://leetcode.com/problems/spiral-matrix/
+        </a>
+      </td>
+      <td>Medium</td>
+      <td>
+        <a href="./platforms/LeetCode/0054. Spiral Matrix/">
+          Solution
+        </a>
+      </td>
+    </tr>
+    <!-- ! 55__________________________________________________________ -->
+    <tr>
+      <td>55. Jump Game</td>
+      <td>
+        <a href="https://leetcode.com/problems/jump-game/">
+          https://leetcode.com/problems/jump-game/
+        </a>
+      </td>
+      <td>Medium</td>
+      <td>
+        <a href="./platforms/LeetCode/0055. Jump Game/">
+          Solution
+        </a>
+      </td>
+    </tr>
+    <!-- ! 56__________________________________________________________ -->
+    <tr>
+      <td>56. Merge Intervals</td>
+      <td>
+        <a href="https://leetcode.com/problems/merge-intervals/">
+          https://leetcode.com/problems/merge-intervals/
+        </a>
+      </td>
+      <td>Medium</td>
+      <td>
+        <a href="./platforms/LeetCode/0056. Merge Intervals/">
+          Solution
+        </a>
+      </td>
+    </tr>
+    <!-- ! 57__________________________________________________________ -->
+    <tr>
+      <td>57. Insert Interval</td>
+      <td>
+        <a href="https://leetcode.com/problems/insert-interval/">
+          https://leetcode.com/problems/insert-interval/
+        </a>
+      </td>
+      <td>Medium</td>
+      <td>
+        <a href="./platforms/LeetCode/0057. Insert Interval/">
+          Solution
+        </a>
+      </td>
+    </tr>
+    <!-- ! 59__________________________________________________________ -->
+    <tr>
+      <td>59. Spiral Matrix II</td>
+      <td>
+        <a href="https://leetcode.com/problems/spiral-matrix-ii/">
+          https://leetcode.com/problems/spiral-matrix-ii/
+        </a>
+      </td>
+      <td>Medium</td>
+      <td>
+        <a href="./platforms/LeetCode/0059. Spiral Matrix II/">
+          Solution
+        </a>
+      </td>
+    </tr>
+    <!-- ! 61__________________________________________________________ -->
+    <tr>
+      <td>61. Rotate List</td>
+      <td>
+        <a href="https://leetcode.com/problems/rotate-list/">
+          https://leetcode.com/problems/rotate-list/
+        </a>
+      </td>
+      <td>Medium</td>
+      <td>
+        <a href="./platforms/LeetCode/0061. Rotate List/">
+          Solution
+        </a>
+      </td>
+    </tr>
+    <!-- ! 62__________________________________________________________ -->
+    <tr>
+      <td>62. Unique Paths</td>
+      <td>
+        <a href="https://leetcode.com/problems/unique-paths/">
+          https://leetcode.com/problems/unique-paths/
+        </a>
+      </td>
+      <td>Medium</td>
+      <td>
+        <a href="./platforms/LeetCode/0062. Unique Paths/">
+          Solution
+        </a>
+      </td>
+    </tr>
+    <!-- ! 63__________________________________________________________ -->
+    <tr>
+      <td>63. Unique Paths II</td>
+      <td>
+        <a href="https://leetcode.com/problems/unique-paths-ii/">
+          https://leetcode.com/problems/unique-paths-ii/
+        </a>
+      </td>
+      <td>Medium</td>
+      <td>
+        <a href="./platforms/LeetCode/0063. Unique Paths II/">
+          Solution
+        </a>
+      </td>
+    </tr>
+    <!-- ! 64__________________________________________________________ -->
+    <tr>
+      <td>64. Minimum Path Sum</td>
+      <td>
+        <a href="https://leetcode.com/problems/minimum-path-sum/">
+          https://leetcode.com/problems/minimum-path-sum/
+        </a>
+      </td>
+      <td>Medium</td>
+      <td>
+        <a href="./platforms/LeetCode/0064. Minimum Path Sum/">
+          Solution
+        </a>
+      </td>
+    </tr>
 
   </tbody>
 </table>
