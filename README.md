@@ -2,6 +2,8 @@
 
 Leetcode Profile - [SaumyajeetVarma](https://leetcode.com/u/SaumyajeetVarma/)
 
+> Table is not completely updated yet.
+
 <table>
   <thead>
     <tr>
@@ -973,7 +975,7 @@ Leetcode Profile - [SaumyajeetVarma](https://leetcode.com/u/SaumyajeetVarma/)
         </a>
       </td>
     </tr>
-    <!-- ! 99__________________________________________________________ -->
+    <!-- ! 100__________________________________________________________ -->
     <tr>
       <td>100. Same Tree</td>
       <td>
@@ -984,6 +986,441 @@ Leetcode Profile - [SaumyajeetVarma](https://leetcode.com/u/SaumyajeetVarma/)
       <td>Easy</td>
       <td>
         <a href="./platforms/LeetCode/0100. Same Tree/">
+          Solution
+        </a>
+      </td>
+    </tr>
+    <!-- ! 101__________________________________________________________ -->
+    <tr>
+      <td>101. Symmetric Tree</td>
+      <td>
+        <a href="https://leetcode.com/problems/symmetric-tree/">
+          https://leetcode.com/problems/symmetric-tree/
+        </a>
+      </td>
+      <td>Easy</td>
+      <td>
+        <a href="./platforms/LeetCode/0101. Symmetric Tree/">
+          Solution
+        </a>
+      </td>
+    </tr>
+    <!-- ! 102__________________________________________________________ -->
+    <tr>
+      <td>102. Binary Tree Level Order Traversal</td>
+      <td>
+        <a href="https://leetcode.com/problems/binary-tree-level-order-traversal/">
+          https://leetcode.com/problems/binary-tree-level-order-traversal/
+        </a>
+      </td>
+      <td>Medium</td>
+      <td>
+        <a href="./platforms/LeetCode/0102. Binary Tree Level Order Traversal/">
+          Solution
+        </a>
+      </td>
+    </tr>
+    <!-- ! 103__________________________________________________________ -->
+    <tr>
+      <td>103. Binary Tree Zigzag Level Order Traversal</td>
+      <td>
+        <a href="https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/">
+          https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/
+        </a>
+      </td>
+      <td>Medium</td>
+      <td>
+        <a href="./platforms/LeetCode/0103. Binary Tree Zigzag Level Order Traversal/">
+          Solution
+        </a>
+      </td>
+    </tr>
+    <!-- ! 104__________________________________________________________ -->
+    <tr>
+      <td>104. Maximum Depth of Binary Tree</td>
+      <td>
+        <a href="https://leetcode.com/problems/maximum-depth-of-binary-tree/">
+          https://leetcode.com/problems/maximum-depth-of-binary-tree/
+        </a>
+      </td>
+      <td>Easy</td>
+      <td>
+        <a href="./platforms/LeetCode/0104. Maximum Depth of Binary Tree/">
+          Solution
+        </a>
+      </td>
+    </tr>
+    <!-- ! 105__________________________________________________________ -->
+    <tr>
+      <td>105. Construct Binary Tree from Preorder and Inorder Traversal</td>
+      <td>
+        <a href="https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/">
+          https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/
+        </a>
+      </td>
+      <td>Medium</td>
+      <td>
+        <a href="./platforms/LeetCode/0105. Construct Binary Tree from Preorder and Inorder Traversal/">
+          Solution
+        </a>
+      </td>
+    </tr>
+    <!-- ! 106__________________________________________________________ -->
+    <tr>
+      <td>106. Construct Binary Tree from Inorder and Postorder Traversal</td>
+      <td>
+        <a href="https://leetcode.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal/">
+          https://leetcode.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal/
+        </a>
+      </td>
+      <td>Medium</td>
+      <td>
+        <a href="./platforms/LeetCode/0106. Construct Binary Tree from Inorder and Postorder Traversal/">
+          Solution
+        </a>
+      </td>
+    </tr>
+    <!-- ! 110__________________________________________________________ -->
+    <tr>
+      <td>110. Balanced Binary Tree</td>
+      <td>
+        <a href="https://leetcode.com/problems/balanced-binary-tree/">
+          https://leetcode.com/problems/balanced-binary-tree/
+        </a>
+      </td>
+      <td>Easy</td>
+      <td>
+        <a href="./platforms/LeetCode/0110. Balanced Binary Tree/">
+          Solution
+        </a>
+      </td>
+    </tr>
+    <!-- ! 114__________________________________________________________ -->
+    <tr>
+      <td>114. Flatten Binary Tree to Linked List</td>
+      <td>
+        <a href="https://leetcode.com/problems/flatten-binary-tree-to-linked-list/">
+          https://leetcode.com/problems/flatten-binary-tree-to-linked-list/
+        </a>
+      </td>
+      <td>Medium</td>
+      <td>
+        <a href="./platforms/LeetCode/0114. Flatten Binary Tree to Linked List/">
+          Solution
+        </a>
+      </td>
+    </tr>
+    <!-- ! 118__________________________________________________________ -->
+    <tr>
+      <td>118. Pascal&apos;s Triangle</td>
+      <td>
+        <a href="https://leetcode.com/problems/pascals-triangle/">
+          https://leetcode.com/problems/pascals-triangle/
+        </a>
+      </td>
+      <td>Easy</td>
+      <td>
+        <a href="./platforms/LeetCode/0118. Pascal&apos;s Triangle/">
+          Solution
+        </a>
+      </td>
+    </tr>
+    <!-- ! 120__________________________________________________________ -->
+    <tr>
+      <td>120. Triangle</td>
+      <td>
+        <a href="https://leetcode.com/problems/triangle/">
+          https://leetcode.com/problems/triangle/
+        </a>
+      </td>
+      <td>Medium</td>
+      <td>
+        <a href="./platforms/LeetCode/0120. Triangle/">
+          Solution
+        </a>
+      </td>
+    </tr>
+    <!-- ! 121__________________________________________________________ -->
+    <tr>
+      <td>121. Best Time to Buy and Sell Stock</td>
+      <td>
+        <a href="https://leetcode.com/problems/best-time-to-buy-and-sell-stock/">
+          https://leetcode.com/problems/best-time-to-buy-and-sell-stock/
+        </a>
+      </td>
+      <td>Easy</td>
+      <td>
+        <a href="./platforms/LeetCode/0121. Best Time to Buy and Sell Stock/">
+          Solution
+        </a>
+      </td>
+    </tr>
+    <!-- ! 122__________________________________________________________ -->
+    <tr>
+      <td>122. Best Time to Buy and Sell Stock II</td>
+      <td>
+        <a href="https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/">
+          https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/
+        </a>
+      </td>
+      <td>Medium</td>
+      <td>
+        <a href="./platforms/LeetCode/0122. Best Time to Buy and Sell Stock II/">
+          Solution
+        </a>
+      </td>
+    </tr>
+    <!-- ! 124__________________________________________________________ -->
+    <tr>
+      <td>124. Binary Tree Maximum Path Sum</td>
+      <td>
+        <a href="https://leetcode.com/problems/binary-tree-maximum-path-sum/">
+          https://leetcode.com/problems/binary-tree-maximum-path-sum/
+        </a>
+      </td>
+      <td>Hard</td>
+      <td>
+        <a href="./platforms/LeetCode/0124. Binary Tree Maximum Path Sum/">
+          Solution
+        </a>
+      </td>
+    </tr>
+    <!-- ! 125__________________________________________________________ -->
+    <tr>
+      <td>125. Valid Palindrome</td>
+      <td>
+        <a href="https://leetcode.com/problems/valid-palindrome/">
+          https://leetcode.com/problems/valid-palindrome/
+        </a>
+      </td>
+      <td>Easy</td>
+      <td>
+        <a href="./platforms/LeetCode/0125. Valid Palindrome/">
+          Solution
+        </a>
+      </td>
+    </tr>
+    <!-- ! 127__________________________________________________________ -->
+    <tr>
+      <td>127. Word Ladder</td>
+      <td>
+        <a href="https://leetcode.com/problems/word-ladder/">
+          https://leetcode.com/problems/word-ladder/
+        </a>
+      </td>
+      <td>Hard</td>
+      <td>
+        <a href="./platforms/LeetCode/0127. Word Ladder/">
+          Solution
+        </a>
+      </td>
+    </tr>
+    <!-- ! 130__________________________________________________________ -->
+    <tr>
+      <td>130. Surrounded Regions</td>
+      <td>
+        <a href="https://leetcode.com/problems/surrounded-regions/">
+          https://leetcode.com/problems/surrounded-regions/
+        </a>
+      </td>
+      <td>Medium</td>
+      <td>
+        <a href="./platforms/LeetCode/0130. Surrounded Regions/">
+          Solution
+        </a>
+      </td>
+    </tr>
+    <!-- ! 131__________________________________________________________ -->
+    <tr>
+      <td>131. Palindrome Partitioning</td>
+      <td>
+        <a href="https://leetcode.com/problems/palindrome-partitioning/">
+          https://leetcode.com/problems/palindrome-partitioning/
+        </a>
+      </td>
+      <td>Medium</td>
+      <td>
+        <a href="./platforms/LeetCode/0131. Palindrome Partitioning/">
+          Solution
+        </a>
+      </td>
+    </tr>
+    <!-- ! 135__________________________________________________________ -->
+    <tr>
+      <td>135. Candy</td>
+      <td>
+        <a href="https://leetcode.com/problems/candy/">
+          https://leetcode.com/problems/candy/
+        </a>
+      </td>
+      <td>Hard</td>
+      <td>
+        <a href="./platforms/LeetCode/0135. Candy/">
+          Solution
+        </a>
+      </td>
+    </tr>
+    <!-- ! 136__________________________________________________________ -->
+    <tr>
+      <td>136. Single Number</td>
+      <td>
+        <a href="https://leetcode.com/problems/single-number/">
+          https://leetcode.com/problems/single-number/
+        </a>
+      </td>
+      <td>Easy</td>
+      <td>
+        <a href="./platforms/LeetCode/0136. Single Number/">
+          Solution
+        </a>
+      </td>
+    </tr>
+    <!-- ! 138__________________________________________________________ -->
+    <tr>
+      <td>136. Single Number</td>
+      <td>
+        <a href="https://leetcode.com/problems/copy-list-with-random-pointer/">
+          https://leetcode.com/problems/copy-list-with-random-pointer/
+        </a>
+      </td>
+      <td>Medium</td>
+      <td>
+        <a href="./platforms/LeetCode/0138. Copy List with Random Pointer/">
+          Solution
+        </a>
+      </td>
+    </tr>
+    <!-- ! 141__________________________________________________________ -->
+    <tr>
+      <td>141. Linked List Cycle</td>
+      <td>
+        <a href="https://leetcode.com/problems/linked-list-cycle/">
+          https://leetcode.com/problems/linked-list-cycle/
+        </a>
+      </td>
+      <td>Easy</td>
+      <td>
+        <a href="./platforms/LeetCode/0141. Linked List Cycle/">
+          Solution
+        </a>
+      </td>
+    </tr>
+    <!-- ! 142__________________________________________________________ -->
+    <tr>
+      <td>142. Linked List Cycle II</td>
+      <td>
+        <a href="https://leetcode.com/problems/linked-list-cycle-ii/">
+          https://leetcode.com/problems/linked-list-cycle-ii/
+        </a>
+      </td>
+      <td>Medium</td>
+      <td>
+        <a href="./platforms/LeetCode/0142. Linked List Cycle II/">
+          Solution
+        </a>
+      </td>
+    </tr>
+    <!-- ! 143__________________________________________________________ -->
+    <tr>
+      <td>143. Reorder List</td>
+      <td>
+        <a href="https://leetcode.com/problems/reorder-list/">
+          https://leetcode.com/problems/reorder-list/
+        </a>
+      </td>
+      <td>Medium</td>
+      <td>
+        <a href="./platforms/LeetCode/0143. Reorder List/">
+          Solution
+        </a>
+      </td>
+    </tr>
+    <!-- ! 144__________________________________________________________ -->
+    <tr>
+      <td>144. Binary Tree Preorder Traversal</td>
+      <td>
+        <a href="https://leetcode.com/problems/binary-tree-preorder-traversal/">
+          https://leetcode.com/problems/binary-tree-preorder-traversal/
+        </a>
+      </td>
+      <td>Easy</td>
+      <td>
+        <a href="./platforms/LeetCode/0144. Binary Tree Preorder Traversal/">
+          Solution
+        </a>
+      </td>
+    </tr>
+    <!-- ! 144__________________________________________________________ -->
+    <tr>
+      <td>144. Binary Tree Preorder Traversal</td>
+      <td>
+        <a href="https://leetcode.com/problems/binary-tree-preorder-traversal/">
+          https://leetcode.com/problems/binary-tree-preorder-traversal/
+        </a>
+      </td>
+      <td>Easy</td>
+      <td>
+        <a href="./platforms/LeetCode/0144. Binary Tree Preorder Traversal/">
+          Solution
+        </a>
+      </td>
+    </tr>
+    <!-- ! 145__________________________________________________________ -->
+    <tr>
+      <td>145. Binary Tree Postorder Traversal</td>
+      <td>
+        <a href="https://leetcode.com/problems/binary-tree-postorder-traversal/">
+          https://leetcode.com/problems/binary-tree-postorder-traversal/
+        </a>
+      </td>
+      <td>Easy</td>
+      <td>
+        <a href="./platforms/LeetCode/0145. Binary Tree Postorder Traversal/">
+          Solution
+        </a>
+      </td>
+    </tr>
+    <!-- ! 146__________________________________________________________ -->
+    <tr>
+      <td>146. LRU Cache</td>
+      <td>
+        <a href="https://leetcode.com/problems/lru-cache/">
+          https://leetcode.com/problems/lru-cache/
+        </a>
+      </td>
+      <td>Medium</td>
+      <td>
+        <a href="./platforms/LeetCode/0146. LRU Cache/">
+          Solution
+        </a>
+      </td>
+    </tr>
+    <!-- ! 148__________________________________________________________ -->
+    <tr>
+      <td>148. Sort List</td>
+      <td>
+        <a href="https://leetcode.com/problems/sort-list/">
+          https://leetcode.com/problems/sort-list/
+        </a>
+      </td>
+      <td>Medium</td>
+      <td>
+        <a href="./platforms/LeetCode/0148. Sort List/">
+          Solution
+        </a>
+      </td>
+    </tr>
+    <!-- ! 150__________________________________________________________ -->
+    <tr>
+      <td>150. Evaluate Reverse Polish Notation</td>
+      <td>
+        <a href="https://leetcode.com/problems/evaluate-reverse-polish-notation/">
+          https://leetcode.com/problems/evaluate-reverse-polish-notation/
+        </a>
+      </td>
+      <td>Medium</td>
+      <td>
+        <a href="./platforms/LeetCode/0150. Evaluate Reverse Polish Notation/">
           Solution
         </a>
       </td>
