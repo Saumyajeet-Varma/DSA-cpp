@@ -1,3 +1,0 @@
-Print Linked List elements
-
-Given a linked list. Print all the elements of the linked list separated by space followed.

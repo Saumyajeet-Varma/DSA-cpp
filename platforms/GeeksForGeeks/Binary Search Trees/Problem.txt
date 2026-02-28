@@ -1,5 +1,0 @@
-Binary Search Trees
-
-Given an array of integers arr[] representing inorder traversal of elements of a binary tree. Return true if the given inorder traversal can be of a valid Binary Search Tree.
-
-Note - In a valid Binary Search Tree all keys are unique.
